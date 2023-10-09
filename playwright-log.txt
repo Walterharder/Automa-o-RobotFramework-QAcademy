@@ -1,0 +1,127 @@
+{"level":30,"time":"2022-10-13T22:26:15.705Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Listening on 55125"}
+{"level":30,"time":"2022-10-13T22:26:16.159Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:16.160Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:16.164Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:16.164Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:17.182Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:17.183Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:17.196Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:17.196Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:17.248Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:17.248Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:17.253Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:17.253Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:18.269Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:18.270Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:18.280Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:18.280Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:18.290Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:18.290Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:18.297Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:18.297Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:19.319Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:19.320Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:19.325Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:19.325Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:19.333Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:19.333Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:19.340Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:19.341Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:20.361Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:20.361Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:20.368Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:20.368Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:20.384Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:20.384Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:20.395Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:20.396Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:21.426Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:21.427Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:21.431Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-10-13T22:26:21.432Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6857:11)
+    at takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:6894:3)
+    at PlaywrightServer.takeScreenshot (C:\Python310\lib\site-packages\Browser\wrapper\index.js:8484:34)
+    at handleUnary (C:\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-10-13T22:26:21.444Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:21.444Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:21.455Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:21.455Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-10-13T22:26:22.236Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-10-13T22:26:22.237Z","pid":2576,"hostname":"DESKTOP-30PO6JT","msg":"End of node method closeAllBrowsers"}
